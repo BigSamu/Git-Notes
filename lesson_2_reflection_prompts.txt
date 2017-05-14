@@ -1,2 +1,2 @@
-Git Commands Lesson 2git init -> initialize a repositorygit status -> give status of the repository
-git add -> add a file in the staging area
+Git Commands Lesson 2git init -> initiliaze a repositorygit status -> give status of the repositorygit add “file”-> add selected file in the staging areagit reset “file”-> remove selected file from the staging area
+git branch -> Show the current branches of the the repositorygit branch “branch_1” -> create a new branch with a given name “branch_1”git brach checkout “branch_1” -> Change from the branch which is working (i.e. master branch) to branch “branch_1”git log --graph --oneline “branch 1” “branch 2”… -> show visual representation of commit history of branches
