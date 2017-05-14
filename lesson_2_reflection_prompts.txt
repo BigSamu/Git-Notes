@@ -1,0 +1,2 @@
+Git Commands Lesson 2git init -> initialize a repositorygit status -> give status of the repository
+git add -> add a file in the staging area
