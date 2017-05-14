@@ -3,3 +3,4 @@ Git commands
 git remote -> Check current remotes
 git remote add "name_of_repository" "url of repository in GitHub" -> create a remote with the name "name_of_repository" in the selected url
 git push "name_of_repository in GitGub" "name_of_repository in computer" -> send files to the github cloud. For exmpale to the origin in GitHub repository from the master repository in your computer
+aaa
